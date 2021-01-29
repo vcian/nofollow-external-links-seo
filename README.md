@@ -16,9 +16,9 @@
 ### Plugin Functionality: 
 
 <ul>
-<li>1) Activate it from backend and it will automatically add nofollow in external links used in content.</li>
+<li> Activate it from backend and it will automatically add nofollow in external links used in content.</li>
 
-<li>2) No additional settings required.</li>
+<li> No additional settings required.</li>
 </ul>
 
 ## Get Involved 
@@ -27,9 +27,9 @@
 ## Installation 
 
 <ul>
-<li>1. Upload plugin directory to the `/wp-content/plugins/` directory</li>
-<li>2. Activate the plugin through the 'Plugins' menu in WordPress</li>
-<li>3. After activation, you can go through wordpress post/page backend.</li>
+<li> Upload plugin directory to the `/wp-content/plugins/` directory</li>
+<li> Activate the plugin through the 'Plugins' menu in WordPress</li>
+<li> After activation, you can go through wordpress post/page backend.</li>
 </ul>
 
 ## Screenshots
