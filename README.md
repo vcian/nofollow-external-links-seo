@@ -32,10 +32,6 @@
 <li> After activation, you can go through wordpress post/page backend.</li>
 </ul>
 
-## Screenshots
-
-1. front page external link url in source 
-
 ## Changelog 
 
 1.0.0  * First public release.
